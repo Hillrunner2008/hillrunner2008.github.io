@@ -26,7 +26,7 @@ paginate:	5
 url: "http://bendurban.org/" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@ben_durban'
+twitter_handle: '@BD_NCMAT'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -36,7 +36,7 @@ twitter_handle: '@ben_durban'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/ben_durban
+    url:	https://twitter.com/BD_NCMAT
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
