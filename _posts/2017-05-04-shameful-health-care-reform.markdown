@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Disgusting GOP celebrate death sentence bill"
+title:  "Disgusting GOP celebrates death sentence bill"
 date:   2017-05-04 12:34:25
 categories: politics
 tags: healthcare health
