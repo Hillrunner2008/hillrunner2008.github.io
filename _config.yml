@@ -45,8 +45,8 @@ social:
   - icon:	facebook
     url:	https://facebook.com/ben.durban
     desc: Connect with me facebook
-    share_url: https://www.facebook.com/sharer/sharer.php
-    share_link: "&amp;u="
+    share_url: https://www.facebook.com/sharer/sharer.php?
+    share_link: "u="
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
