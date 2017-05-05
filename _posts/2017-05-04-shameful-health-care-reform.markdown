@@ -3,7 +3,7 @@ layout: post
 title:  "Disgusting GOP celebrate death sentence bill"
 date:   2017-05-04 12:34:25
 categories: politics
-tags: 
+tags: healthcare health
 image: /assets/images/background_image.jpg
 ---
 
@@ -19,5 +19,5 @@ These are facts and if this doesn't piss you off and motivate you to fight then 
 
 Now the Bill is on to the Senate and what they propose won't look as bad as the House's version but it will be bad. Please call your Senator and let them know this isn't okay.
 
-NC- Richard Burr (202) 224-3154
-NC- Thom Tillis (704) 509-9087
+ - NC - Richard Burr (202) 224-3154
+ - NC - Thom Tillis (704) 509-9087
