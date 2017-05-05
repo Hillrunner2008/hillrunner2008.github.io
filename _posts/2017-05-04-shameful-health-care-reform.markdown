@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This is going to be long!"
+title:  "Disgusting GOP celebrate death sentence bill"
 date:   2017-05-04 12:34:25
 categories: politics
 tags: 
